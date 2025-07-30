@@ -37,27 +37,27 @@ Data pipeline for Financial Analysis/
 
 ## How to run
 
-1. Install dependencies:
+- Install dependencies:
 
 pip install -r requirements.txt
 
-2. Start Airflow (example):
+- Start Airflow (example):
 
 airflow webserver
 
 Then access Airflow UI at http://localhost:8080 and trigger the etl_dag DAG.
 
-3. Or run ETL manually:
+- Or run ETL manually:
 
 python src/extract.py
 python src/transform.py
 python src/load.py
 
-4. Exploratory Data Analysis
+- Exploratory Data Analysis
 
 jupyter notebook notebooks/exploratory_analysis.ipynb
 
-5. Run the Streamlit dashboard:
+- Run the Streamlit dashboard:
 
 streamlit run dashboard/dashboard.py
 
