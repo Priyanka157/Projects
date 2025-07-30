@@ -11,10 +11,9 @@ This project uses real smart building energy data to analyze lighting patterns, 
 
 ## 📁 Project Structure
 
-smart-lighting-ai/
-│
-├── Smart_Lighting_Optimization_AI.ipynb # Jupyter notebook (EDA + ML)
-├── Lighting_app.py # Streamlit dashboard
-├── 2019Floor1.csv # Raw dataset
-├── requirements.txt # Python dependencies
-└── README.md # Project overview
+Smart Lighting Insights with AI
+- Smart_Lighting_Optimization_AI.ipynb : Jupyter notebook (EDA + ML)
+- Lighting_dashboard.py : Streamlit dashboard
+- 2019Floor1.7z : Raw dataset
+- requirements.txt : Python dependencies
+- README.md : Project overview
