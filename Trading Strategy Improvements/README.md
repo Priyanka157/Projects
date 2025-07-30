@@ -32,16 +32,17 @@ This project analyzes and improves algorithmic trading strategies using historic
 ## 📁 Project Structure
 
 ```
-├── 01_data_exploration.ipynb     # Initial EDA and data visualization
-├── 02_strategy_baseline.ipynb    # Implements SMA crossover strategy
-├── 03_strategy_improvements.ipynb# Adds volatility-based filtering
+├── notebooks/
+│   ├── Data_exploration.ipynb      # Initial EDA and data visualization
+│   ├── Strategy_baseline.ipynb     # Implements SMA crossover strategy
+│   ├── Strategy_improvements.ipynb # Adds volatility-based filtering
 ├── src/
-│   ├── data_loader.py            # Data retrieval functions
-│   ├── strategies.py             # Signal generation logic
-│   ├── backtester.py             # Backtesting framework
-│   └── performance.py            # Sharpe ratio, drawdown, etc.
-├── requirements.txt              # Required Python packages
-└── README.md                     # This file
+│   ├── backtester.py               # Backtesting framework
+│   ├── data_loader.py              # Data retrieval functions
+│   ├── performance.py              # Sharpe ratio, drawdown, etc.
+│   ├── strategies.py               # Signal generation logic
+├── requirements.txt                # Required Python packages
+└── README.md                       # This file
 ```
 
 ---
