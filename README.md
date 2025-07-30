@@ -10,6 +10,9 @@ A quantitative finance project applying technical indicators, volatility filteri
 ### 🔹 Smart Lighting Insights with AI
 A machine learning project focused on analyzing and optimizing lighting energy usage patterns using time-series data and intelligent clustering.
 
+### 🔹 Data Pipeline for Financial Analysis
+A robust, automated data pipeline project that ingests historical financial data (stock prices for ticker AAPL), processes it, stores it efficiently, and provides clean, structured data for downstream analytics and visualization.
+
 ---
 
 ## 💡 What to Expect
