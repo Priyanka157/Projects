@@ -4,10 +4,10 @@ Welcome to my project portfolio! This repository showcases a growing collection 
 
 ## 📂 Current Projects
 
-### 🔹 [Trading Strategy Improvements](projects/alpha-factory-quant-strategies)
+### 🔹 Trading Strategy Improvements
 A quantitative finance project applying technical indicators, volatility filtering, and backtesting to explore and optimize trading strategies using historical SPY data.
 
-### 🔹 [Smart Lighting Insights with AI](projects/smart-lighting-insights)
+### 🔹 Smart Lighting Insights with AI
 A machine learning project focused on analyzing and optimizing lighting energy usage patterns using time-series data and intelligent clustering.
 
 ---
