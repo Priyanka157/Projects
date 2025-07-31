@@ -1,9 +1,31 @@
-# Data Pipeline for Financial Analysis
+# 📈 Data Pipeline for Financial Analysis
 
-## Overview
+## 🔍 Overview
 A modular ETL data pipeline fetching stock data from Yahoo Finance, processing it, storing in SQLite, and visualizing results.
 
-## Structure
+## ✅ Key Features
+- Data Ingestion: Pull historical price data (e.g., AAPL) using Yahoo Finance API (yfinance)
+- Transformation: Compute moving averages, volatility, and trading signals
+- Database Storage: Store clean data with timestamps in an SQLite database with indexing for performance
+- Exploratory Analysis: Query and visualize data in a Jupyter notebook
+- Live Dashboard (Streamlit): Visualize time series, indicators, and export trading signals to CSV
+
+## 🎯 Skills Demonstrated
+- Data pipeline engineering (ETL)
+- Time-series feature engineering
+- SQL queries & performance optimization (indexing, timestamping)
+- Interactive data exploration (Jupyter Notebook)
+- Basic technical trading indicators
+- Streamlit dashboard development
+- Logging and modular Python scripting
+
+## 🧰 Tools & Technologies
+- Languages:	Python, SQL
+- Libraries:	pandas, yfinance, sqlite3, matplotlib, seaborn
+- Dashboard:	Streamlit
+- Database:	SQLite3 (locally stored .db file)
+
+## 🗂️ Project Structure
 
 - `src/`: ETL scripts for extraction, transformation, and loading.
 - `dags/`: Airflow DAG to orchestrate ETL workflow on schedule.
@@ -35,7 +57,7 @@ Data pipeline for Financial Analysis/
 
 ```
 
-## How to run
+## ▶️ How to run
 
 - Install dependencies:
 
@@ -61,7 +83,7 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 
 streamlit run dashboard/dashboard.py
 
-## Future improvements
+## 📌 Future improvements
 - Containerize the pipeline with Docker.
 - Add Kafka or Spark streaming for real-time data.
 - Deploy on AWS/GCP with managed Airflow and cloud DB services.
