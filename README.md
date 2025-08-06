@@ -13,7 +13,14 @@ A machine learning project focused on analyzing and optimizing lighting energy u
 ### 🔹 Data Pipeline for Financial Analysis
 A robust, automated data pipeline project that ingests historical financial data (stock prices for ticker AAPL), processes it, stores it efficiently, and provides clean, structured data for downstream analytics and visualization.
 
+### 🔹 Creating Dashboard for Car Sales in Excel
+A data visualization project creating various charts and a Dashboard in Excel using Car Sales data.
+
+### 🔹 Understanding Car Sales through visualizations in Excel
+A data analysis and visualization project which uses Car Sales data to visualize various results through charts in Excel.
+
 ---
+
 
 ## 💡 What to Expect
 - 📈 Data Exploration & Visualization
