@@ -25,7 +25,7 @@ Project demonstrating cleaning, sorting and analyzing fleet inventory data.
 ├── Equipment_Inventory_raw.xlsx	    # Raw Excel file to clean
 ├── Equipment_Inventory_Cleaned.xlsx	    # Excel file with cleaned data
 ├── Equipment_Inventory.xlsx	    	    # Excel file to analyze
-├── Equipment_Inventory_Analysis.xlsx	    	    # Excel file with data analysis
+├── Equipment_Inventory_Analysis.xlsx	    # Excel file with data analysis
 └── README.md                       	    # This file
 ```
 
