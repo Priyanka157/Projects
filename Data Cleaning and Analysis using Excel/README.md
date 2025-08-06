@@ -1,6 +1,6 @@
 # 📊 Data cleaning and analysis in Excel
 
-Project demonstrating cleaning, sorting and analyzing fleet inventory data. ed and cleaned.
+Project demonstrating cleaning, sorting and analyzing fleet inventory data.
 
 ---
 
