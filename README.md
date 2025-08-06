@@ -19,6 +19,10 @@ A data visualization project creating various charts and a Dashboard in Excel us
 ### 🔹 Understanding Car Sales through visualizations in Excel
 A data analysis and visualization project which uses Car Sales data to visualize various results through charts in Excel.
 
+### 🔹 Data cleaning and analysis in Excel
+
+Project demonstrating cleaning, sorting and analyzing fleet inventory data.
+
 ---
 
 
